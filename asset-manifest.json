@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/repicate-portfolio/static/css/main.80534e9f.css",
+    "main.js": "/repicate-portfolio/static/js/main.abf225d4.js",
+    "index.html": "/repicate-portfolio/index.html",
+    "main.80534e9f.css.map": "/repicate-portfolio/static/css/main.80534e9f.css.map",
+    "main.abf225d4.js.map": "/repicate-portfolio/static/js/main.abf225d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80534e9f.css",
+    "static/js/main.abf225d4.js"
+  ]
+}
